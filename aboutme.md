@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About
-subtitle: Vortechx gerando soluções
+subtitle: Vortechx gerando conectividade para o seu negócio.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Empresa especializada em conectividades, baseando-se principalmente em:
+- Configuração de Roteadores Juniper, Huawei, Cisco
+- Configuraçãoo de CGNat com A10 Networks
+- Configuração de servidores Linux como, Radius, acell-ppp, DNS, Quagga, Bird.
+- Configuração de Routerboards Mikrotik
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###
