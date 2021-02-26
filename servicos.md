@@ -10,7 +10,6 @@ subtitle: Conheça nossos serviços.
 | [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) |
 
 <br />
-<br />
 
 | A10 NETWORKS | MIKROTIK | LINUX	 |
 | :------: |:---: | :---: |
