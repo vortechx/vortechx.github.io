@@ -7,4 +7,6 @@ cover-img: /assets/img/home-routers.jpg
 ---
 | Juniper | Huawei | Cisco |
 | :------ |:--- | :--- |
-| assets/img/juniper.jpeg | assets/img/huawei.jpeg | assets/img/cisco.jpg  |
+| ![Optional Text](/assets/img/juniper.jpeg) | ![Optional Text](/assets/img/huawei.jpeg) | ![Optional Text](/assets/img/cisco.jpg)  |
+
+
