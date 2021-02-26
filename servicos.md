@@ -4,10 +4,16 @@ title: Serviços
 subtitle: Conheça nossos serviços.
 ---
 
-Empresa especializada em conectividades, baseando-se principalmente em:
-- Configuração de Roteadores Juniper, Huawei, Cisco
-- Configuraçãoo de CGNat com A10 Networks
-- Configuração de servidores Linux como, Radius, acell-ppp, DNS, Quagga, Bird.
-- Configuração de Routerboards Mikrotik
+| JUNIPER | HUAWEI | CISCO |
+| :------: |:---: | :---: |
+| ![Optional Text](/assets/img/juniper.jpeg) | ![Optional Text](/assets/img/huawei.jpg) | ![Optional Text](/assets/img/cisco.jpg)  |
+| [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) |
+<br />
+<br />
+| A10 NETWORKS | MIKROTIK | LINUX	 |
+| :------: |:---: | :---: |
+| ![Optional Text](/assets/img/a10.jpeg) | ![Optional Text](/assets/img/mk.jpeg) | ![Optional Text](/assets/img/linux.jpeg)  |
+| [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) | [SAIBA MAIS](https://vortechx.github.io/servicos/) |
+
 
 
