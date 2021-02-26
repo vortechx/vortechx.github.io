@@ -3,6 +3,9 @@ layout: page
 title: Serviços
 subtitle: Conheça nossos serviços.
 ---
+Realizamos serviços de instalação e configuração de vários fabricantes, veja abaixa alguns deles e os serviços que hoje são mais solicitados. 
+
+<br />
 
 | JUNIPER | Serviços |
 | :------: |:---: |
