@@ -10,31 +10,31 @@ Realizamos serviços de instalação e configuração de vários fabricantes, ve
 | :------: |:---: |
 | ![Optional Text](/assets/img/juniper.jpeg) | OSPF ISIS MPLS LDP RSVP VPLS L2Circuit <br /> Router Instance BGP PBR BRAS FIREWALL |
 
-<br />
+<br/>
 
 | HUAWEI | Serviços |
 | :------: |:---: |
 | ![Optional Text](/assets/img/huawei.jpg) | OSPF ISIS MPLS LDP RSVP VPLS L2Circuit <br /> Router Instance BGP PBR FIREWALL|
 
-<br />
+<br/>
 
 | CISCO | Serviços |
 | :------: |:---: |
 | ![Optional Text](/assets/img/cisco.jpg) | OSPF ISIS MPLS LDP RSVP VPLS L2Circuit <br /> Router Instance BGP PBR|
 
-<br />
+<br/>
 
 | A10 | Serviços |
 | :------: |:---: |
 | ![Optional Text](/assets/img/a10.jpeg) | CGNAT Statico e Dinamico |
 
-<br />
+<br/>
 
 | MIKROTIK | Serviços |
 | :------: |:---: |
 | ![Optional Text](/assets/img/mk.jpeg) | OSPF ISIS MPLS LDP RSVP VPLS L2Circuit <br /> Router Instance BGP PBR BRAS <br /> VPNs HOTSPOT FIREWALL |
 
-<br />
+<br/>
 
 | LINUX | Serviços |
 | :------: |:---: |
