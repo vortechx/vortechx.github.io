@@ -48,6 +48,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.telephone -%}
+  <li class="list-inline-item">
+    <a href="https://api.WhatsApp.com/send?phone={{ site.social-network-links.telephone }}" title="Whatsapp">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Phone</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.telegram -%}
   <li class="list-inline-item">
     <a href="https://t.me/{{ site.social-network-links.telegram }}" title="Telegram">
@@ -275,7 +287,7 @@
     </a>
   </li>
 {%- endif -%}
-  
+
  {%- if site.social-network-links.medium -%}
   <li class="list-inline-item">
     <a href="https://medium.com/@{{ site.social-network-links.medium }}" title="Medium">
