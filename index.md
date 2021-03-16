@@ -2,7 +2,7 @@
 layout: page
 title: Vortechx
 subtitle: Gerando alta conectividade para o seu negócio
-cover-img: /assets/img/home-routers-2.jpg
+cover-img: /assets/img/home-routers-5.jpg
 
 ---
 | JUNIPER | HUAWEI | CISCO |
