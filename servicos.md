@@ -3,7 +3,10 @@ layout: page
 title: Serviços
 subtitle: Conheça nossos serviços.
 ---
-Realizamos serviços de instalação e configuração de vários fabricantes, veja abaixa alguns deles e os serviços que hoje são mais solicitados. 
+Prestamos serviços de consultoria técnica para empresas no geral e também para provedores de internet.
+
+
+Realizamos serviços de instalação e configuração de vários fabricantes, veja abaixo algunas da solucções e serviços, onde podemos ajudar a sua empresa a crescer mais rapido.
 <br />
 
 | JUNIPER | Serviços |
