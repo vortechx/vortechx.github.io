@@ -2,10 +2,10 @@
 layout: page
 title: Vortechx
 subtitle: Gerando alta conectividade para o seu negócio
-cover-img: /assets/img/home-routers-2.jpg
+cover-img: /assets/img/home-routers-3.jpg
 
 ---
-Ajudamos você a conectar as melhores soluções de rede em sua empresa, de forma rápida sem afetar a operação do seu negocio.
+Ajudamos você a conectar as melhores soluções de rede em sua empresa, de forma rápida sem afetar a operação do seu negócio.
 
 | JUNIPER | HUAWEI | CISCO |
 | :------: |:---: | :---: |
