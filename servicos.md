@@ -32,3 +32,7 @@ Realizamos serviços de instalação e configuração de vários fabricantes, ve
 | LINUX | Serviços |
 | :------: |:---: |
 | ![Optional Text](/assets/img/linux.jpeg) | ACCEL-PPP UMBOUND BIND QUAGGA WEB RADIUS |
+| | |
+| FIBERHOME | Serviços |
+| :------: |:---: |
+| ![Optional Text](/assets/img/fiberhome.jpeg) | CONFIGURAÇÃO BACKUP UPDATE |
